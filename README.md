@@ -1,4 +1,4 @@
-
+[images](static/images) [screenshots](static/screenshots)
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Suresh%20babu-red)
 ## Functions
