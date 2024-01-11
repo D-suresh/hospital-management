@@ -69,5 +69,4 @@ Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://www.facebook.com/suresh09.01?mibextid=ZbWKwL)
 
 # hospitalmanagement
-# hospital-management
-# hospital-management
+
